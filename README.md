@@ -73,14 +73,14 @@ I value **systems thinking over hype**, solid engineering fundamentals, and shar
 <div align="center">
 
 <!-- Stats en VERTICAL pour éviter problème d'affichage -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pegasus04-Nathanael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pegasus04-Nathanael&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NathanaelFetue&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanaelFetue&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pegasus04-Nathanael&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NathanaelFetue&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -90,11 +90,11 @@ I value **systems thinking over hype**, solid engineering fundamentals, and shar
 
 | Project | Description | Tech | Status |
 |---|---|---|---|
-| ⚡ [upmem-swap](https://github.com/Pegasus04-Nathanael/upmem-swap) | UPMEM PIM Swap Prototype - Research on Processing-In-Memory systems | C | 🔥 Active |
-| 🌐 [rdma-hello-world](https://github.com/Pegasus04-Nathanael/rdma-hello-world) | RDMA networking experiments for high-performance distributed systems | C | Completed |
-| ☁️ [spark-gcp-automation](https://github.com/Pegasus04-Nathanael/spark-gcp-automation) | Automated Apache Spark cluster deployment on GCP with IaC | Shell, Terraform | Completed |
-| 💰 [docker-cost-analyzer](https://github.com/Pegasus04-Nathanael/docker-cost-analyzer) | Docker container resource cost analysis tool | Python | Active |
-| 🗂️ [caching-policies](https://github.com/Pegasus04-Nathanael/caching-policies) | ML-based CPU prefetching & cache replacement (Hackathon Winner) | Python, Jupyter | ⭐ 1 |
+| ⚡ [upmem-swap](https://github.com/NathanaelFetue/upmem-swap) | UPMEM PIM Swap Prototype - Research on Processing-In-Memory systems | C | 🔥 Active |
+| 🌐 [rdma-hello-world](https://github.com/NathanaelFetue/rdma-hello-world) | RDMA networking experiments for high-performance distributed systems | C | Completed |
+| ☁️ [spark-gcp-automation](https://github.com/NathanaelFetue/spark-gcp-automation) | Automated Apache Spark cluster deployment on GCP with IaC | Shell, Terraform | Completed |
+| 💰 [docker-cost-analyzer](https://github.com/NathanaelFetue/docker-cost-analyzer) | Docker container resource cost analysis tool | Python | Active |
+| 🗂️ [caching-policies](https://github.com/NathanaelFetue/caching-policies) | ML-based CPU prefetching & cache replacement (Hackathon Winner) | Python, Jupyter | ⭐ 1 |
 
 ---
 
@@ -111,7 +111,7 @@ I value **systems thinking over hype**, solid engineering fundamentals, and shar
 <div align="center">
 
 <!-- Visitor counter -->
-![Visitor Count](https://komarev.com/ghpvc/?username=Pegasus04-Nathanael&color=blueviolet&style=for-the-badge&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=NathanaelFetue&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
