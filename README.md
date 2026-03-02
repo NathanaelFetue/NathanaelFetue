@@ -25,7 +25,7 @@ My journey from Cameroon to France reflects my determination to build expertise 
 
 > *"The best way to predict the future is to build it."*
 
-I value **systems thinking over hype**, solid engineering fundamentals, and sharing knowledge through my [technical blog](https://hashnode.com/@pegasus04).
+I value **systems thinking over hype**, solid engineering fundamentals, and sharing knowledge through my [technical blog](https://hashnode.com/@nathanael-fetue).
 
 ---
 
