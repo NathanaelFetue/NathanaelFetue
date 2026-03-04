@@ -10,7 +10,7 @@
 
 <!-- Social links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nathanael--fetue--foko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathanael-fetue-foko)
-[![GitHub](https://img.shields.io/badge/GitHub-Pegasus04--Nathanael-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NathanaelFetue)
+[![GitHub](https://img.shields.io/badge/GitHub-NathanaelFetue-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NathanaelFetue)
 [![Hashnode](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@nathanael-fetue)
 
 </div>
